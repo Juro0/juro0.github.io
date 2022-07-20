@@ -1,0 +1,17 @@
+body {
+    background: #191A33;
+    color: #19b99a;
+}
+
+p {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 10vw;
+    top: 12vh;
+    left: 45vh;
+    text-shadow: #128971 20px 20px 20px;
+}
+
+p::selection {
+    background: none;
+}
